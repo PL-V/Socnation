@@ -1,4 +1,4 @@
-baseURL = "https://socnation.github.io/socnation"
+baseURL = "/socnation"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
